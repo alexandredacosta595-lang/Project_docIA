@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIGDF - Sistema Inteligente de Gestão de Documentos Financeiros
 
 Este repositório contém o código fonte do SIGDF, separado em `frontend` e `backend`.
@@ -29,3 +30,7 @@ npm run dev
 ```
 
 O frontend ficará disponível em `http://localhost:5173`.
+=======
+# Project_docIA
+Sistema inteligente de Gestão e análise de documentos financeiro para PMEs angolanas
+>>>>>>> 478bb85425761135f12bd81b330250703c0c8e2b
